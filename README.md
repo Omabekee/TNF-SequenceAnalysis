@@ -1,7 +1,8 @@
 # A Comprehensive Sequence Analysis of the Human TNF Gene
 This is a repository for the comprehensive sequence analysis of the human tumor necrosis factor (TNF) gene, focusing on variant detection, functional annotation, gene study insights and key findings.
 
-## Objective: To analyze and interpret the human TNF gene sequence, which encodes a proinflammatory cytokine called TNF.
+## Objective:
+To analyze and interpret the human TNF gene sequence, which encodes a proinflammatory cytokine called TNF.
 
 ## Project Tasks and Workflow:
 1. Downloading the human TNF gene sequence.
